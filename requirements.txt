@@ -1,0 +1,18 @@
+# ============================================================
+# Safe Loop AI
+# Multi-Agent School Safety & Incident Response System
+# GOAI 2026 — Boundless Agents
+# Topic 4: AI + Education
+#
+# Core project runtime dependencies
+# ============================================================
+
+numpy>=2.0,<3.0
+pandas>=2.2,<3.0
+PyYAML>=6.0,<7.0
+pydantic>=2.13,<3.0
+requests>=2.32,<3.0
+python-dotenv>=1.0,<2.0
+ipykernel>=6.17,<7.0
+jupyter>=1.0,<2.0
+pytest>=8.4,<9.0
